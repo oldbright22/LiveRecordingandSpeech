@@ -1,0 +1,11 @@
+scikit-learn
+torch
+transformers
+sentence-transformers
+opencv-python
+Pillow
+python-dotenv
+google-generativeai
+gtts
+pydub
+pygame
